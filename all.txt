@@ -1,0 +1,7 @@
+perl Packet.pl 1.1.1.1 80 10000 3600
+perl PortLords.pl 1.1.1.1 80 10000 3600
+perl slap.pl 1.1.1.1 80 10000 3600
+perl vape.pl 1.1.1.1 80 10000 3600
+perl anon.pl 1.1.1.1 80 10000 3600
+perl weed.pl 1.1.1.1 80 10000 3600
+
